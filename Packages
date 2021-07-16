@@ -76,6 +76,22 @@ Author: iKy1e (Kyle Howells) <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=swipeselection-pro
 Name: SwipeSelection Pro
 
+Package: com.iphonecake.appcracktool
+Version: 1.1.0-002
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 12.0)
+Filename: ./debs/com.iphonecake.appcracktool_1.1.0-002_iphoneos-arm.deb
+Size: 44780
+MD5sum: 454cdc8d320a380dbf5702b13714a4a4
+SHA1: ff8896aa08fccb5c52042c901968cc2d7ad806de
+SHA256: a63b53feba9159bb56fe745b01104fe552181cd18d49253aa1051854fc4308d3
+Section: Tweaks
+Description: Unlock Premium And No Ads Of Apps. Configure In The iOS Settings App.
+Author: Unknown
+Name: App Cracktool
+
 Package: com.johncoates.Flex3
 Version: 3~EarlyAccess4
 Architecture: iphoneos-arm
@@ -242,6 +258,44 @@ Section: Archiving
 Priority: optional
 Description: claims to be a good compressor
 Name: 7-zip (POSIX)
+
+Package: to.appdb.appcracktool
+Version: 1.1.0-003
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Installed-Size: 488
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 12.0)
+Conflicts: com.iphonecake.appcracktool
+Replaces: com.iphonecake.appcracktool
+Provides: com.iphonecake.appcracktool
+Filename: ./debs/to.appdb.appcracktool_1.1.0-003_iphoneos-arm.deb
+Size: 47664
+MD5sum: a34b1fd73b4d9015ab2d5c11397f8e34
+SHA1: f2d2c7c5164c5cc98071d94e50111bd5f535dc51
+SHA256: c09498afe4d9e3f78cf81e81696014f8c78c3b6b40e59bd75ca505d59677cfd8
+Section: Tweaks
+Description: Unlock Premium And No Ads Of Apps. Configure In The iOS Settings App.
+Author: Unknown
+Name: App Cracktool
+
+Package: to.appdb.appcracktool
+Version: 1.1.0-004
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 12.0)
+Conflicts: com.iphonecake.appcracktool
+Replaces: com.iphonecake.appcracktool
+Provides: com.iphonecake.appcracktool
+Filename: ./debs/to.appdb.appcracktool_1.1.0-004_iphoneos-arm.deb
+Size: 48578
+MD5sum: cb81573eff6c12a7a4be7a3dde17ef84
+SHA1: c75259751e6db4a557f093ef06872756da816c59
+SHA256: 9ff260a0ab85b071373115af2d7255af6e9e62d635fc0bfa1df7c1280c8a0d65
+Section: Tweaks
+Description: Unlock Premium And No Ads Of Apps. Configure In The iOS Settings App.
+Author: Unknown
+Name: App Cracktool
 
 Package: unrar
 Version: 3.6.8-2p
